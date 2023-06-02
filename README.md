@@ -2,7 +2,7 @@
 
 ## Nice meeting you, I'm Hossam Ghoneim!
 
-<p><img align="center" src="https://avatars.githubusercontent.com/u/60117042?v=4" alt="Hossamghoneim74" /></p>
+<p><img align="center" src="https://camo.githubusercontent.com/ba7f0e591a9acb23707d778446c513306342d00bb18d6e26913ed4f44bf664fb/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d41686d65644f6d6172613134" alt="Hossamghoneim74" /></p>
 
 <a href="https://www.linkedin.com/in/hossam-ghoneim-794b061b7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/hossam-ghoneim-794b061b7" height="30" width="40" /></a>
 <a href="https://github.com/hossamghoneim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/hossamghoneim" height="30" width="40" /></a>
