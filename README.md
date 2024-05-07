@@ -10,7 +10,11 @@ I'm a passionate developer with over 3 years of hands-on experience in creating 
 
 - PHP
 - Laravel
-- [Other relevant backend technologies/tools]
+- Typescript
+- Nest Js
+- Javascript
+- Html
+- Css
 
 ## Projects
 
