@@ -16,20 +16,10 @@ I'm a passionate developer with over 3 years of hands-on experience in creating 
 - Html
 - Css
 
-## Projects
-
-Here are some projects I've worked on:
-
-- [Project 1](link-to-project1): Brief description of your contribution and the project.
-- [Project 2](link-to-project2): Brief description of your contribution and the project.
-- ...
-
 ## Connect with Me
 
 Let's connect and collaborate! You can find me on:
 
-- [GitHub](https://github.com/your-username)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/hossam-ghoneim-794b061b7)
 
 Feel free to explore my repositories and reach out for any interesting projects or collaborations. Looking forward to connecting with fellow developers and enthusiasts! 🚀
