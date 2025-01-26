@@ -20,6 +20,6 @@ I'm a passionate developer with over 3 years of hands-on experience in creating 
 
 Let's connect and collaborate! You can find me on:
 
-- [LinkedIn]((https://www.linkedin.com/in/hossam-ghoneim-794b061b7))
+- [LinkedIn](https://www.linkedin.com/in/hossam-ghoneim-794b061b7)
 
 Feel free to explore my repositories and reach out for any interesting projects or collaborations. Looking forward to connecting with fellow developers and enthusiasts! 🚀
